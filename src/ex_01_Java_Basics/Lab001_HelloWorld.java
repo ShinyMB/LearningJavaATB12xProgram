@@ -4,6 +4,16 @@ public class Lab001_HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println();
+        System.out.println("Hi, Shiny!");
+
+        //This line will not be displayed in teh output
+
+
+
+        /*
+        *
+        *    /* enter creates new line for comments
+        *
+        * */
     }
 }
